@@ -1,0 +1,9 @@
+node_modules/
+.last-tunnel-url
+npm-debug.log*
+.DS_Store
+.env
+.env.*
+*.log
+.vscode/
+.idea/
